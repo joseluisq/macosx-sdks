@@ -8,10 +8,11 @@ Please ensure you have read and understood first the [Xcode license terms](https
 
 ## SDKs
 
-- [Mac OS X 11.1](https://github.com/joseluisq/macosx-sdks/releases/tag/11.1)
-- [Mac OS X 10.15](https://github.com/joseluisq/macosx-sdks/releases/tag/10.15)
+- [Mac OS X 11.1 (macOS Big Sur)](https://github.com/joseluisq/macosx-sdks/releases/tag/11.1)
+- [Mac OS X 10.15 (macOS Catalina)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.15)
+- [Mac OS X 10.14 (macOS Mojave)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.14)
 
-*SDKs packaged using osxcross. Checkout [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.*
+*SDKs packaged using **osxcross**. Checkout [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.*
 
 ## Resources
 
