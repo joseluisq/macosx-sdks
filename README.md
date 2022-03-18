@@ -8,6 +8,7 @@ Please ensure you have read and understood first the [Xcode license terms](https
 
 ## SDKs
 
+- [Mac OS X 12.3 (macOS Monterey)](https://github.com/joseluisq/macosx-sdks/releases/tag/12.3)
 - [Mac OS X 12.1 (macOS Monterey)](https://github.com/joseluisq/macosx-sdks/releases/tag/12.1)
 - [Mac OS X 12.0 (macOS Monterey)](https://github.com/joseluisq/macosx-sdks/releases/tag/12.0)
 - [Mac OS X 11.3 (macOS Big Sur)](https://github.com/joseluisq/macosx-sdks/releases/tag/11.3)
