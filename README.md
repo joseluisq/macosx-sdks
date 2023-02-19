@@ -8,6 +8,7 @@ Please ensure you have read and understood first the [Xcode license terms](https
 
 ## SDKs
 
+- [Mac OS X 13.0 (macOS Ventura)](https://github.com/joseluisq/macosx-sdks/releases/tag/13.0)
 - [Mac OS X 12.3 (macOS Monterey)](https://github.com/joseluisq/macosx-sdks/releases/tag/12.3)
 - [Mac OS X 12.1 (macOS Monterey)](https://github.com/joseluisq/macosx-sdks/releases/tag/12.1)
 - [Mac OS X 12.0 (macOS Monterey)](https://github.com/joseluisq/macosx-sdks/releases/tag/12.0)
@@ -17,7 +18,7 @@ Please ensure you have read and understood first the [Xcode license terms](https
 - [Mac OS X 10.14 (macOS Mojave)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.14)
 - [Mac OS X 10.13 (macOS High Sierra)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.13)
 
-*SDKs packaged using **osxcross**. Checkout [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.*
+*SDKs packaged using **osxcross**. Check out [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.*
 
 ## Resources
 
