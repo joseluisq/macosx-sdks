@@ -19,7 +19,23 @@ Please ensure you have read and understood first the [Xcode license terms](https
 - [Mac OS X 10.14 (macOS Mojave)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.14)
 - [Mac OS X 10.13 (macOS High Sierra)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.13)
 
-*SDKs packaged using **osxcross**. Check out [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.*
+All SDKs were packaged using **osxcross**. Check out [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.
+
+## JSON SDKs
+
+A list of all provided SDKs can be also found on [macosx_sdks.json](./macosx_sdks.json).
+
+## Contributions
+
+If you would like to contribute a new SDK, please make sure of the following:
+
+- Your SDK is packaged using osxcross. See [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.
+- Please only one pull request per SDK (for better tracking and consistency reasons).
+- Add an entry in the [SDKs](#sdks) section as well as in [macosx_sdks.json](./macosx_sdks.json) file (follow the *newer/up - older/down* order).
+- Provide a link for the preliminary download of your SDK and its [SHA256SUM](https://linux.die.net/man/1/sha256sum) for testing.
+- Open a [pull request](https://github.com/joseluisq/macosx-sdks/pulls) and wait for approval. Usually after merging, a new release should be coming right after.
+
+Feel free to file an [issue](https://github.com/joseluisq/macosx-sdks/issues).
 
 ## Resources
 
