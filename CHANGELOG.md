@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+<a name="10.12"></a>
+
+# [10.12](https://github.com/joseluisq/macosx-sdks/releases/tag/10.12) - 21 May 2023
+
+[macOS Sierra 10.12](https://en.wikipedia.org/wiki/MacOS_Sierra) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `53f552170d0789bef2cd6d3dfa8f710b84843d7601175f041f302618b51d5a13`
+
+__Features__
+
+- [debeb37](https://github.com/joseluisq/macosx-sdks/commit/debeb3718ad2f41d1971f1247bb3ae3e1cfd0cd3) macOS Sierra 10.12 SDK. PR [#3](https://github.com/joseluisq/macosx-sdks/pull/3) by [@OmniBlade](https://github.com/OmniBlade).
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][10.12]
+
 <a name="13.1"></a>
 
 # [13.1](https://github.com/joseluisq/macosx-sdks/releases/tag/13.1) - 19 Feb 2023
@@ -142,6 +160,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[10.12]: https://github.com/joseluisq/macosx-sdks/compare/13.1...10.12
 [13.1]: https://github.com/joseluisq/macosx-sdks/compare/13.0...13.1
 [13.0]: https://github.com/joseluisq/macosx-sdks/compare/12.3...13.0
 [12.3]: https://github.com/joseluisq/macosx-sdks/compare/12.1...12.3
