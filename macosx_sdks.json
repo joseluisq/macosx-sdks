@@ -127,5 +127,18 @@
         "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.13",
         "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.13/MacOSX10.13.sdk.tar.xz",
         "github_download_sha256sum": "9d3eddc34a510198694f5ec7cfbdebaee4c0c7ba68ad1d957cb566649c9a0f84"
+    },
+    {
+        "version": "macOS 10.12",
+        "name": "Sierra",
+        "darwin": "16.0.0",
+        "release_date": "2016-09-13",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.12",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.12/MacOSX10.12.sdk.tar.xz",
+        "github_download_sha256sum": "53f552170d0789bef2cd6d3dfa8f710b84843d7601175f041f302618b51d5a13"
     }
 ]
