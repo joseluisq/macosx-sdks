@@ -151,7 +151,7 @@
             "x86_64"
         ],
         "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.11",
-        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.12/MacOSX10.11.sdk.tar.xz",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.11/MacOSX10.11.sdk.tar.xz",
         "github_download_sha256sum": "994b7a737a9f5e797af62463e1d540fca99e33b4c1448ad11ba1548424d26807"
     }
 ]
