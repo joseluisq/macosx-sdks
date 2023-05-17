@@ -140,5 +140,18 @@
         "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.12",
         "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.12/MacOSX10.12.sdk.tar.xz",
         "github_download_sha256sum": "53f552170d0789bef2cd6d3dfa8f710b84843d7601175f041f302618b51d5a13"
+    },
+    {
+        "version": "OS X 10.11",
+        "name": "El Capitan",
+        "darwin": "15.0.0",
+        "release_date": "2015-09-16",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.11",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.12/MacOSX10.11.sdk.tar.xz",
+        "github_download_sha256sum": "994b7a737a9f5e797af62463e1d540fca99e33b4c1448ad11ba1548424d26807"
     }
 ]
