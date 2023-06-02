@@ -20,6 +20,7 @@ Please ensure you have read and understood first the [Xcode license terms](https
 - [Mac OS X 10.13 (macOS High Sierra)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.13)
 - [Mac OS X 10.12 (macOS Sierra)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.12)
 - [Mac OS X 10.11 (OS X El Capitan)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.11)
+- [Mac OS X 10.10 (OS X Yosemite)](https://github.com/joseluisq/macosx-sdks/releases/tag/10.10)
 
 All SDKs were packaged using **osxcross**. Check out [Packaging the SDK on macOS](https://github.com/tpoechtrager/osxcross#packaging-the-sdk) for more details.
 
