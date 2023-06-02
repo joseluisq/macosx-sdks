@@ -2,7 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
-<a name="10.11"></a>
+# [10.10](https://github.com/joseluisq/macosx-sdks/releases/tag/10.10) - Jun 02, 2023
+
+[OS X Yosemite 10.10](https://en.wikipedia.org/wiki/OS_X_Yosemite) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `bfc056a5ad80403d72d7a50319bdd106545ea5936af2c343a517f96bdec4caee`
+
+__Features__
+
+- [f09b55c](https://github.com/joseluisq/macosx-sdks/commit/f09b55c24d39d53bf62099050b80e8e5f74ffd5c) OS X Yosemite 10.10 SDK. PR [#5](https://github.com/joseluisq/macosx-sdks/pull/5) by [@OmniBlade](https://github.com/OmniBlade).
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][10.10]
+
+<a name="10.10"></a>
 
 # [10.11](https://github.com/joseluisq/macosx-sdks/releases/tag/10.11) - May 17, 2023
 
@@ -178,6 +194,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[10.10]: https://github.com/joseluisq/macosx-sdks/compare/10.11...10.10
 [10.11]: https://github.com/joseluisq/macosx-sdks/compare/10.12...10.11
 [10.12]: https://github.com/joseluisq/macosx-sdks/compare/13.1...10.12
 [13.1]: https://github.com/joseluisq/macosx-sdks/compare/13.0...13.1
