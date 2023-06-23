@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+# [10.9](https://github.com/joseluisq/macosx-sdks/releases/tag/10.9) - Jun 23, 2023
+
+[OS X Mavericks 10.9](https://en.wikipedia.org/wiki/OS_X_Mavericks) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `6e1dc54e46bb1397b9db7194933475aae9c2df1267a4d20f6d0a8dfff72c3b03`
+
+__Features__
+
+- [e226637](https://github.com/joseluisq/macosx-sdks/commit/e2266379ca2e1dd486e472409484b75820b60347) OS X Mavericks 10.9 SDK. PR [#6](https://github.com/joseluisq/macosx-sdks/pull/6) by [@OmniBlade](https://github.com/OmniBlade).
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][10.9]
+
+<a name="10.9"></a>
+
 # [10.10](https://github.com/joseluisq/macosx-sdks/releases/tag/10.10) - Jun 02, 2023
 
 [OS X Yosemite 10.10](https://en.wikipedia.org/wiki/OS_X_Yosemite) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -194,6 +212,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[10.9]: https://github.com/joseluisq/macosx-sdks/compare/10.10...10.9
 [10.10]: https://github.com/joseluisq/macosx-sdks/compare/10.11...10.10
 [10.11]: https://github.com/joseluisq/macosx-sdks/compare/10.12...10.11
 [10.12]: https://github.com/joseluisq/macosx-sdks/compare/13.1...10.12
