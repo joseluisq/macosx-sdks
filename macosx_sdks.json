@@ -166,5 +166,18 @@
         "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.10",
         "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.10/MacOSX10.10.sdk.tar.xz",
         "github_download_sha256sum": "bfc056a5ad80403d72d7a50319bdd106545ea5936af2c343a517f96bdec4caee"
+    },
+    {
+        "version": "OS X 10.9",
+        "name": "Mavericks",
+        "darwin": "13.0.0",
+        "release_date": "2013-10-22",
+        "architectures": [
+            "x86",
+            "x86_64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/10.9",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/10.9/MacOSX10.9.sdk.tar.xz",
+        "github_download_sha256sum": "6e1dc54e46bb1397b9db7194933475aae9c2df1267a4d20f6d0a8dfff72c3b03"
     }
 ]
