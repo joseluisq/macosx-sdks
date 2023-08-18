@@ -1,5 +1,18 @@
 [
     {
+        "version": "macOS 13.3",
+        "name": "Ventura",
+        "darwin": "22.4.0",
+        "release_date": "2023-03-27",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/13.3",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/13.3/MacOSX13.3.sdk.tar.xz",
+        "github_download_sha256sum": "518e35eae6039b3f64e8025f4525c1c43786cc5cf39459d609852faf091e34be"
+    },
+    {
         "version": "macOS 13.1",
         "name": "Ventura",
         "darwin": "22.2.0",
