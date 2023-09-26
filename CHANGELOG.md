@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+# [13.3](https://github.com/joseluisq/macosx-sdks/releases/tag/13.3) - Aug 18, 2023
+
+[macOS Ventura 13.3](https://developer.apple.com/documentation/macos-release-notes/macos-13_3-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `518e35eae6039b3f64e8025f4525c1c43786cc5cf39459d609852faf091e34be`
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][13.3]
+
+<a name="10.9"></a>
+
 # [10.9](https://github.com/joseluisq/macosx-sdks/releases/tag/10.9) - Jun 23, 2023
 
 [OS X Mavericks 10.9](https://en.wikipedia.org/wiki/OS_X_Mavericks) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -212,6 +226,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[13.3]: https://github.com/joseluisq/macosx-sdks/compare/10.9...13.3
 [10.9]: https://github.com/joseluisq/macosx-sdks/compare/10.10...10.9
 [10.10]: https://github.com/joseluisq/macosx-sdks/compare/10.11...10.10
 [10.11]: https://github.com/joseluisq/macosx-sdks/compare/10.12...10.11
