@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+# [14.0](https://github.com/joseluisq/macosx-sdks/releases/tag/14.0) - Sep 26, 2023
+
+[macOS Sonoma 14.0](https://developer.apple.com/documentation/macos-release-notes/macos-14-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `5e4d3be6b445f0eacc0333ff2117e93e4433d8c4fe44053a14f735033a98aaa9`
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][14.0]
+
+<a name="13.3"></a>
+
 # [13.3](https://github.com/joseluisq/macosx-sdks/releases/tag/13.3) - Aug 18, 2023
 
 [macOS Ventura 13.3](https://developer.apple.com/documentation/macos-release-notes/macos-13_3-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -226,6 +240,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[14.0]: https://github.com/joseluisq/macosx-sdks/compare/13.3...14.0
 [13.3]: https://github.com/joseluisq/macosx-sdks/compare/10.9...13.3
 [10.9]: https://github.com/joseluisq/macosx-sdks/compare/10.10...10.9
 [10.10]: https://github.com/joseluisq/macosx-sdks/compare/10.11...10.10

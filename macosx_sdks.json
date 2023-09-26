@@ -1,5 +1,18 @@
 [
     {
+        "version": "macOS 14.0",
+        "name": "Sonoma",
+        "darwin": "23.0.0",
+        "release_date": "2023-09-26",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/14.0",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/14.0/MacOSX14.0.sdk.tar.xz",
+        "github_download_sha256sum": "5e4d3be6b445f0eacc0333ff2117e93e4433d8c4fe44053a14f735033a98aaa9"
+    },
+    {
         "version": "macOS 13.3",
         "name": "Ventura",
         "darwin": "22.4.0",
