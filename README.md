@@ -8,6 +8,7 @@ Please ensure you have read and understood first the [Xcode license terms](https
 
 ## SDKs
 
+- [Mac OS X 14.2 (macOS Sonoma)](https://github.com/joseluisq/macosx-sdks/releases/tag/14.2)
 - [Mac OS X 14.0 (macOS Sonoma)](https://github.com/joseluisq/macosx-sdks/releases/tag/14.0)
 - [Mac OS X 13.3 (macOS Ventura)](https://github.com/joseluisq/macosx-sdks/releases/tag/13.3)
 - [Mac OS X 13.1 (macOS Ventura)](https://github.com/joseluisq/macosx-sdks/releases/tag/13.1)
