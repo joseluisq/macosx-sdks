@@ -1,5 +1,18 @@
 [
     {
+        "version": "macOS 14.4",
+        "name": "Sonoma",
+        "darwin": "23.4.0",
+        "release_date": "2024-03-07",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/14.4",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/14.4/MacOSX14.4.sdk.tar.xz",
+        "github_download_sha256sum": "5170364da96521a8cfeb4c7b8ffa810f82bd7494bd7a93653b6054101ac6cbe7"
+    },
+    {
         "version": "macOS 14.2",
         "name": "Sonoma",
         "darwin": "23.2.0",
