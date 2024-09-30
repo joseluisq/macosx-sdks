@@ -14,8 +14,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][15.0]
 
-<a name="14.4"></a>
-
 # [14.5](https://github.com/joseluisq/macosx-sdks/releases/tag/14.5) - May 16, 2024
 
 [macOS Sonoma 14.5](https://developer.apple.com/documentation/macos-release-notes/macos-14_5-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -27,8 +25,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][14.5]
-
-<a name="14.4"></a>
 
 # [14.4](https://github.com/joseluisq/macosx-sdks/releases/tag/14.4) - Mar 8, 2024
 
@@ -42,8 +38,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][14.4]
 
-<a name="14.2"></a>
-
 # [14.2](https://github.com/joseluisq/macosx-sdks/releases/tag/14.2) - Sep 26, 2023
 
 [macOS Sonoma 14.2](https://developer.apple.com/documentation/macos-release-notes/macos-14_2-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -55,8 +49,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][14.2]
-
-<a name="14.0"></a>
 
 # [14.0](https://github.com/joseluisq/macosx-sdks/releases/tag/14.0) - Sep 26, 2023
 
@@ -70,8 +62,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][14.0]
 
-<a name="13.3"></a>
-
 # [13.3](https://github.com/joseluisq/macosx-sdks/releases/tag/13.3) - Aug 18, 2023
 
 [macOS Ventura 13.3](https://developer.apple.com/documentation/macos-release-notes/macos-13_3-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -83,8 +73,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][13.3]
-
-<a name="10.9"></a>
 
 # [10.9](https://github.com/joseluisq/macosx-sdks/releases/tag/10.9) - Jun 23, 2023
 
@@ -102,8 +90,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.9]
 
-<a name="10.9"></a>
-
 # [10.10](https://github.com/joseluisq/macosx-sdks/releases/tag/10.10) - Jun 02, 2023
 
 [OS X Yosemite 10.10](https://en.wikipedia.org/wiki/OS_X_Yosemite) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -119,8 +105,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][10.10]
-
-<a name="10.10"></a>
 
 # [10.11](https://github.com/joseluisq/macosx-sdks/releases/tag/10.11) - May 17, 2023
 
@@ -138,8 +122,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.11]
 
-<a name="10.11"></a>
-
 # [10.12](https://github.com/joseluisq/macosx-sdks/releases/tag/10.12) - May 15, 2023
 
 [macOS Sierra 10.12](https://en.wikipedia.org/wiki/MacOS_Sierra) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -156,8 +138,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.12]
 
-<a name="13.1"></a>
-
 # [13.1](https://github.com/joseluisq/macosx-sdks/releases/tag/13.1) - Feb 19, 2023
 
 [macOS Ventura 13.1](https://developer.apple.com/documentation/macos-release-notes/macos-13_1-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -169,8 +149,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][13.1]
-
-<a name="13.0"></a>
 
 # [13.0](https://github.com/joseluisq/macosx-sdks/releases/tag/13.0) - Feb 19, 2023
 
@@ -184,8 +162,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][13.0]
 
-<a name="12.3"></a>
-
 # [12.3](https://github.com/joseluisq/macosx-sdks/releases/tag/12.3) - Mar 18, 2022
 
 [macOS Monterey 12.3](https://developer.apple.com/documentation/macos-release-notes/macos-12_3-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -196,8 +172,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][12.3]
-
-<a name="12.1"></a>
 
 # [12.1](https://github.com/joseluisq/macosx-sdks/releases/tag/12.1) - Mar 17, 2022
 
@@ -210,8 +184,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][12.1]
-
-<a name="10.13"></a>
 
 # [10.13](https://github.com/joseluisq/macosx-sdks/releases/tag/10.13) - Nov 03, 2021
 
@@ -227,8 +199,6 @@ Feature request by [@Gcenx](https://github.com/Gcenx)
 
 [Changes][10.13]
 
-<a name="12.0"></a>
-
 # [12.0](https://github.com/joseluisq/macosx-sdks/releases/tag/12.0) - Nov 02, 2021
 
 [macOS Monterey 12.0.1](https://developer.apple.com/documentation/macos-release-notes/macos-12_0_1-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -239,8 +209,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][12.0]
-
-<a name="11.3"></a>
 
 # [11.3](https://github.com/joseluisq/macosx-sdks/releases/tag/11.3) - Jun 22, 2021
 
@@ -254,8 +222,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][11.3]
 
-<a name="10.14"></a>
-
 # [10.14](https://github.com/joseluisq/macosx-sdks/releases/tag/10.14) - Jan 15, 2021
 
 [macOS Mojave 10.14](https://developer.apple.com/documentation/macos-release-notes/macos-mojave-10_14-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -267,8 +233,6 @@ __Note:__
 Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
 
 [Changes][10.14]
-
-<a name="11.1"></a>
 
 # [11.1](https://github.com/joseluisq/macosx-sdks/releases/tag/11.1) - Jan 03, 2021
 
@@ -282,8 +246,6 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][11.1]
 
-<a name="10.15"></a>
-
 # [10.15](https://github.com/joseluisq/macosx-sdks/releases/tag/10.15) - Jan 02, 2021
 
 [macOS Catalina 10.15](https://developer.apple.com/documentation/macos-release-notes/macos-catalina-10_15-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -296,10 +258,10 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
-[15.0]: https://github.com/joseluisq/macosx-sdks/compare/15.0...14.5
-[14.5]: https://github.com/joseluisq/macosx-sdks/compare/14.5...14.4
-[14.4]: https://github.com/joseluisq/macosx-sdks/compare/14.4...14.2
-[14.2]: https://github.com/joseluisq/macosx-sdks/compare/14.2...14.0
+[15.0]: https://github.com/joseluisq/macosx-sdks/compare/14.5...15.0
+[14.5]: https://github.com/joseluisq/macosx-sdks/compare/14.4...14.5
+[14.4]: https://github.com/joseluisq/macosx-sdks/compare/14.2...14.4
+[14.2]: https://github.com/joseluisq/macosx-sdks/compare/14.0...14.2
 [14.0]: https://github.com/joseluisq/macosx-sdks/compare/13.3...14.0
 [13.3]: https://github.com/joseluisq/macosx-sdks/compare/10.9...13.3
 [10.9]: https://github.com/joseluisq/macosx-sdks/compare/10.10...10.9
