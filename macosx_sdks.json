@@ -1,5 +1,18 @@
 [
     {
+        "version": "macOS 15.0",
+        "name": "Sequoia",
+        "darwin": "24.0.0",
+        "release_date": "2024-09-16",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/15.0",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/15.0/MacOSX15.0.sdk.tar.xz",
+        "github_download_sha256sum": "9df0293776fdc8a2060281faef929bf2fe1874c1f9368993e7a4ef87b1207f98"
+    },
+    {
         "version": "macOS 14.5",
         "name": "Sonoma",
         "darwin": "23.5.0",
