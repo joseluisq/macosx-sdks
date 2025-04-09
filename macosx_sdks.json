@@ -1,5 +1,18 @@
 [
     {
+        "version": "macOS 15.4",
+        "name": "Sequoia",
+        "darwin": "24.4.0",
+        "release_date": "2025-03-31",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/15.4",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/15.4/MacOSX15.4.sdk.tar.xz",
+        "github_download_sha256sum": "a0b7b66912ac0da0e45b304a332bacdbe58ca172220820d425edb28213962f81"
+    },
+    {
         "version": "macOS 15.2",
         "name": "Sequoia",
         "darwin": "24.2.0",

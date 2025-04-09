@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+# [15.4](https://github.com/joseluisq/macosx-sdks/releases/tag/15.4) - Apr 10, 2025
+
+[macOS Sequoia 15.4](https://developer.apple.com/documentation/macos-release-notes/macos-15_4-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `a0b7b66912ac0da0e45b304a332bacdbe58ca172220820d425edb28213962f81`
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][15.4]
+
 # [15.2](https://github.com/joseluisq/macosx-sdks/releases/tag/15.2) - Dec 31, 2024
 
 [macOS Sequoia 15.2](https://developer.apple.com/documentation/macos-release-notes/macos-15_2-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -282,6 +294,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[15.4]: https://github.com/joseluisq/macosx-sdks/compare/15.2...15.4
 [15.2]: https://github.com/joseluisq/macosx-sdks/compare/15.1...15.2
 [15.1]: https://github.com/joseluisq/macosx-sdks/compare/15.0...15.1
 [15.0]: https://github.com/joseluisq/macosx-sdks/compare/14.5...15.0
