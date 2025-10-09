@@ -8,6 +8,7 @@ Please ensure you have read and understood first the [Xcode license terms](https
 
 ## SDKs
 
+- [Mac OS X 26.0 (macOS Tahoe)](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0)
 - [Mac OS X 15.5 (macOS Sequoia)](https://github.com/joseluisq/macosx-sdks/releases/tag/15.5)
 - [Mac OS X 15.4 (macOS Sequoia)](https://github.com/joseluisq/macosx-sdks/releases/tag/15.4)
 - [Mac OS X 15.2 (macOS Sequoia)](https://github.com/joseluisq/macosx-sdks/releases/tag/15.2)
