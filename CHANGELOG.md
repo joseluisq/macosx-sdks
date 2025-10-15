@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+# [26.0](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0) - Oct 15, 2025
+
+[macOS Sequoia 15.5](https://developer.apple.com/documentation/macos-release-notes/macos-26-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `04a3037dbf5bd2a0bb208c6ba4fe8a3873753c8e399222d4856404ce54413206`
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
 # [15.5](https://github.com/joseluisq/macosx-sdks/releases/tag/15.5) - Jun 14, 2025
 
 [macOS Sequoia 15.5](https://developer.apple.com/documentation/macos-release-notes/macos-15_5-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
