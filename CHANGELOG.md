@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file.
 
+# [26.0](https://github.com/joseluisq/macosx-sdks/releases/tag/26.0) - Oct 23, 2025
+
+[macOS Tahoe 26.0](https://developer.apple.com/documentation/macos-release-notes/macos-26-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
+
+**SHA256SUM:** `07ccaa2891454713c3a230dd87283f76124193309d9a7617ebee45354c9302d2`
+
+__Note:__
+
+Please ensure you have read and understood the [Xcode license terms](https://www.apple.com/legal/sla/docs/xcode.pdf) first.
+
+[Changes][15.5]
+
 # [15.5](https://github.com/joseluisq/macosx-sdks/releases/tag/15.5) - Jun 14, 2025
 
 [macOS Sequoia 15.5](https://developer.apple.com/documentation/macos-release-notes/macos-15_5-release-notes) SDK packaged using [osxcross](https://github.com/tpoechtrager/osxcross#packaging-the-sdk).
@@ -306,6 +318,7 @@ Please ensure you have read and understood the [Xcode license terms](https://www
 
 [Changes][10.15]
 
+[26.0]: https://github.com/joseluisq/macosx-sdks/compare/15.5...26.0
 [15.5]: https://github.com/joseluisq/macosx-sdks/compare/15.4...15.5
 [15.4]: https://github.com/joseluisq/macosx-sdks/compare/15.2...15.4
 [15.2]: https://github.com/joseluisq/macosx-sdks/compare/15.1...15.2
