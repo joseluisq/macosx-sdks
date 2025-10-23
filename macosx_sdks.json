@@ -1,5 +1,18 @@
 [
     {
+        "version": "macOS 26.0",
+        "name": "Tahoe",
+        "darwin": "26.0.0",
+        "release_date": "2025-09-15",
+        "architectures": [
+            "x86_64",
+            "arm64"
+        ],
+        "github_release": "https://github.com/joseluisq/macosx-sdks/releases/tag/26.0",
+        "github_download_url": "https://github.com/joseluisq/macosx-sdks/releases/download/26.0/MacOSX26.0.sdk.tar.xz",
+        "github_download_sha256sum": "07ccaa2891454713c3a230dd87283f76124193309d9a7617ebee45354c9302d2"
+    },
+    {
         "version": "macOS 15.5",
         "name": "Sequoia",
         "darwin": "24.5.0",
